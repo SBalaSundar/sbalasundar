@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **reachme@balasundar.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1amsi0K3fTO-FlfkUMjoAUlnfXQj1DOnZ/view?usp=sharing](https://drive.google.com/file/d/1amsi0K3fTO-FlfkUMjoAUlnfXQj1DOnZ/view?usp=sharing)
+- 📄 Know about my experiences [https://balasundar.com/](https://balasundar.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
