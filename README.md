@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Script to convert a file from YAML to JSON](https://blog.balasundar.com/python-script-to-convert-a-file-from-yaml-to-json)
+- [Design Patterns - Facade](https://blog.balasundar.com/design-patterns-facade)
+- [Automate Git Operations Using Python](https://blog.balasundar.com/automate-git-operations-using-python)
+- [Design Patterns - Bridge](https://blog.balasundar.com/design-patterns-bridge)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
