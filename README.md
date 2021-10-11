@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Script to convert a file from YAML to JSON](https://blog.balasundar.com/python-script-to-convert-a-file-from-yaml-to-json)
+- [Python Script to convert a YAML file to JSON file](https://blog.balasundar.com/python-script-to-convert-a-yaml-file-to-json-file)
 - [Design Patterns - Facade](https://blog.balasundar.com/design-patterns-facade)
 - [Automate Git Operations Using Python](https://blog.balasundar.com/automate-git-operations-using-python)
 - [Design Patterns - Bridge](https://blog.balasundar.com/design-patterns-bridge)
