@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [curl: &lpar;92&rpar; HTTP/2 stream 0 was not closed cleanly: PROTOCOL_ERROR &lpar;err 1&rpar;](https://blog.balasundar.com/curl-92-http2-stream-0-was-not-closed-cleanly-protocolerror-err-1)
 - [Python Script to convert a YAML file to JSON file](https://blog.balasundar.com/python-script-to-convert-a-yaml-file-to-json-file)
 - [Design Patterns - Facade](https://blog.balasundar.com/design-patterns-facade)
 - [Automate Git Operations Using Python](https://blog.balasundar.com/automate-git-operations-using-python)
-- [Design Patterns - Bridge](https://blog.balasundar.com/design-patterns-bridge)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
